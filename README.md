@@ -1,8 +1,8 @@
-# pirmais-python-projekts
-Mans pirmais GitHub mācību repozitorijs
+# Uzmini skaitli
 
 
-# Mans pirmais Python projekts
+## Apraksts
+Vienkarša python spele
 
-## Mērķis
-Iemācīties lietot GitHub repozitoriju, commit un diff.
+## Palaišana
+Palaid uzmini_skaitly.py ar Python.
